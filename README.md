@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanivdouieb&theme=radical&langs_count=3&count_private=true&locale=fr" alt="yanivdouieb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanivdouieb&theme=radical&show_icons=true&locale=fr&count_private=true" alt="yanivdouieb" /></p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b45f419b-25b8-4764-9219-edbc3d754326/deploy-status)](https://app.netlify.com/sites/yanivdouieb/deploys)
